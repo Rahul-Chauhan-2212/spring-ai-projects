@@ -1,4 +1,4 @@
-package com.spring.ai.openai.communication;
+package com.spring.ai.ollama.communication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

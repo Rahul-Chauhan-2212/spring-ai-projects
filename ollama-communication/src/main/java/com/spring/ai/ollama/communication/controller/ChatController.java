@@ -1,4 +1,4 @@
-package com.spring.ai.openai.communication.controller;
+package com.spring.ai.ollama.communication.controller;
 
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.http.ResponseEntity;
